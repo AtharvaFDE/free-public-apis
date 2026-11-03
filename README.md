@@ -8,10 +8,10 @@ This repository aims to provide a useful collection of free APIs across differen
 
 ## APIs List
 
-| API Name | Category | Endpoint |
-|---|---|---|
-| DummyJSON | Users | https://dummyjson.com/ |
-| JSONPlaceholder | Dummy Data | https://jsonplaceholder.typicode.com/ |
+| **API Name**    | **Category** | **Endpoint** | **Description** |
+| --------------- | ------------ | ------------ | --------------- |
+| DummyJSON       | Users        | [Link](https://dummyjson.com/) | Provides dummy user, product, and other sample data for API practice. |
+| JSONPlaceholder | Dummy Data   | [Link](https://jsonplaceholder.typicode.com/) | Fake REST API for practicing GET, POST, PUT, PATCH, and DELETE requests. |
 
 ## Features
 - Free public APIs.
